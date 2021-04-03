@@ -1,0 +1,19 @@
+{
+  "name": "copenhagen_tours",
+  "version": "1.0.0",
+  "description": "landing page for copenhagen_tours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takaforyannick30/copenhagen_tours.git"
+  },
+  "author": "takafor_yannick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Takaforyannick30/copenhagen_tours/issues"
+  },
+  "homepage": "https://github.com/Takaforyannick30/copenhagen_tours#readme"
+}
